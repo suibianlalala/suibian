@@ -113,9 +113,9 @@ void password()
 {
   int i;
   char n[8],m[8];
-  m[0]='0';m[1]='4';m[2]='0';m[3]='8';m[4]='2';m[5]='0';m[6]='3';m[7]='7';
+  m[0]='1';m[1]='1';m[2]='0';m[3]='6';m[4]='1';m[5]='1';m[6]='2';m[7]='9';
   printf("\n\n\n\n\n\t-----   Welcome to the student's status manage system    -----\n\n\n\n\n\n\n\n");
-  printf("\n\n\n\n\n\t\t\tPlease input the secret code£º   ");
+  printf("\n\n\n\n\n\t\t\tPlease input the secret codeÂ£Âº   ");
   do
     {
       for(i=0;i<8;i++)
